@@ -15,7 +15,7 @@ import { Search } from 'lucide-react';
 
 export const dynamic = 'force-dynamic';
 
-export default function ProductsPage({
+export default async function ProductsPage({
   searchParams,
 }: {
   searchParams: { [key: string]: string | string[] | undefined };
