@@ -1,190 +1,190 @@
 {
   "placeholderImages": [
     {
-      "id": "fresh-mangoes",
-      "description": "A close up of three ripe mangoes.",
-      "imageUrl": "https://picsum.photos/seed/101/600/400",
-      "imageHint": "fresh mangoes"
-    },
-    {
-      "id": "organic-spinach",
-      "description": "A bundle of fresh organic spinach.",
-      "imageUrl": "https://picsum.photos/seed/102/600/400",
-      "imageHint": "fresh spinach"
-    },
-    {
-      "id": "avocados",
-      "description": "Two whole avocados and one sliced in half.",
-      "imageUrl": "https://picsum.photos/seed/103/600/400",
-      "imageHint": "fresh avocados"
-    },
-    {
-      "id": "wireless-earphones",
-      "description": "A pair of sleek white wireless earphones in their charging case.",
-      "imageUrl": "https://picsum.photos/seed/104/600/400",
-      "imageHint": "wireless earphones"
-    },
-    {
-      "id": "smartphone",
-      "description": "A modern smartphone with a vibrant screen display.",
-      "imageUrl": "https://picsum.photos/seed/105/600/400",
-      "imageHint": "modern smartphone"
-    },
-    {
-      "id": "laptop",
-      "description": "A thin and light laptop open on a desk.",
-      "imageUrl": "https://picsum.photos/seed/106/600/400",
-      "imageHint": "silver laptop"
-    },
-    {
-      "id": "t-shirt",
-      "description": "A plain, folded cotton t-shirt.",
-      "imageUrl": "https://picsum.photos/seed/107/600/400",
-      "imageHint": "cotton t-shirt"
-    },
-    {
-      "id": "jeans",
-      "description": "A pair of classic blue denim jeans.",
-      "imageUrl": "https://picsum.photos/seed/108/600/400",
-      "imageHint": "blue jeans"
-    },
-    {
-      "id": "running-shoes",
-      "description": "A pair of colorful and modern running shoes.",
-      "imageUrl": "https://picsum.photos/seed/109/600/400",
-      "imageHint": "running shoes"
-    },
-    {
-      "id": "office-chair",
-      "description": "An ergonomic black office chair.",
-      "imageUrl": "https://picsum.photos/seed/110/600/400",
-      "imageHint": "office chair"
-    },
-    {
-      "id": "printer-paper",
-      "description": "A ream of A4 printer paper.",
-      "imageUrl": "https://picsum.photos/seed/111/600/400",
-      "imageHint": "printer paper"
-    },
-    {
-      "id": "dish-soap",
-      "description": "A bottle of lemon-scented dish soap.",
-      "imageUrl": "https://picsum.photos/seed/112/600/400",
-      "imageHint": "dish soap"
-    },
-    {
-      "id": "all-purpose-cleaner",
-      "description": "A spray bottle of all-purpose cleaner.",
-      "imageUrl": "https://picsum.photos/seed/113/600/400",
-      "imageHint": "cleaning spray"
-    },
-    {
-      "id": "coca-cola-can",
-      "description": "A can of Coca-cola.",
-      "imageUrl": "https://picsum.photos/seed/114/600/400",
-      "imageHint": "coke can"
-    },
-    {
-      "id": "mineral-water",
-      "description": "A bottle of mineral water.",
-      "imageUrl": "https://picsum.photos/seed/115/600/400",
-      "imageHint": "water bottle"
-    },
-    {
-      "id": "bar-soap",
-      "description": "A bar of soap.",
-      "imageUrl": "https://picsum.photos/seed/116/600/400",
-      "imageHint": "bar soap"
-    },
-    {
-      "id": "shampoo",
-      "description": "A bottle of shampoo.",
-      "imageUrl": "https://picsum.photos/seed/117/600/400",
-      "imageHint": "shampoo bottle"
-    },
-    {
-      "id": "cooking-pot",
-      "description": "A cooking pot.",
-      "imageUrl": "https://picsum.photos/seed/118/600/400",
-      "imageHint": "cooking pot"
-    },
-    {
-      "id": "baby-diapers",
-      "description": "A pack of baby diapers.",
-      "imageUrl": "https://picsum.photos/seed/119/600/400",
-      "imageHint": "baby diapers"
-    },
-    {
-      "id": "dog-food",
-      "description": "A bag of dry dog food.",
-      "imageUrl": "https://picsum.photos/seed/120/600/400",
-      "imageHint": "dog food"
-    },
-    {
       "id": "hero-background",
       "description": "A bright and modern supermarket aisle.",
       "imageUrl": "https://picsum.photos/seed/1/1200/800",
       "imageHint": "supermarket aisle"
     },
     {
-      "id": "category-produce",
+      "id": "fresh-mangoes",
+      "description": "A close up of three ripe mangoes.",
+      "imageUrl": "https://picsum.photos/seed/201/600/400",
+      "imageHint": "ripe mangoes"
+    },
+    {
+      "id": "organic-spinach",
+      "description": "A bundle of fresh organic spinach.",
+      "imageUrl": "https://picsum.photos/seed/202/600/400",
+      "imageHint": "bunch spinach"
+    },
+    {
+      "id": "avocados",
+      "description": "Two whole avocados and one sliced in half.",
+      "imageUrl": "https://picsum.photos/seed/203/600/400",
+      "imageHint": "green avocados"
+    },
+    {
+      "id": "wireless-earphones",
+      "description": "A pair of sleek white wireless earphones in their charging case.",
+      "imageUrl": "https://picsum.photos/seed/204/600/400",
+      "imageHint": "pro earbuds"
+    },
+    {
+      "id": "smartphone",
+      "description": "A modern smartphone with a vibrant screen display.",
+      "imageUrl": "https://picsum.photos/seed/205/600/400",
+      "imageHint": "nexus smartphone"
+    },
+    {
+      "id": "laptop",
+      "description": "A thin and light laptop open on a desk.",
+      "imageUrl": "https://picsum.photos/seed/206/600/400",
+      "imageHint": "ultraslim laptop"
+    },
+    {
+      "id": "t-shirt",
+      "description": "A plain, folded cotton t-shirt.",
+      "imageUrl": "https://picsum.photos/seed/207/600/400",
+      "imageHint": "white t-shirt"
+    },
+    {
+      "id": "jeans",
+      "description": "A pair of classic blue denim jeans.",
+      "imageUrl": "https://picsum.photos/seed/208/600/400",
+      "imageHint": "denim pants"
+    },
+    {
+      "id": "running-shoes",
+      "description": "A pair of colorful and modern running shoes.",
+      "imageUrl": "https://picsum.photos/seed/209/600/400",
+      "imageHint": "trail shoes"
+    },
+    {
+      "id": "office-chair",
+      "description": "An ergonomic black office chair.",
+      "imageUrl": "https://picsum.photos/seed/210/600/400",
+      "imageHint": "ergonomic chair"
+    },
+    {
+      "id": "printer-paper",
+      "description": "A ream of A4 printer paper.",
+      "imageUrl": "https://picsum.photos/seed/211/600/400",
+      "imageHint": "paper ream"
+    },
+    {
+      "id": "dish-soap",
+      "description": "A bottle of lemon-scented dish soap.",
+      "imageUrl": "https://picsum.photos/seed/212/600/400",
+      "imageHint": "lemon soap"
+    },
+    {
+      "id": "all-purpose-cleaner",
+      "description": "A spray bottle of all-purpose cleaner.",
+      "imageUrl": "https://picsum.photos/seed/213/600/400",
+      "imageHint": "cleaning spray"
+    },
+    {
+      "id": "coca-cola-can",
+      "description": "A can of Coca-cola.",
+      "imageUrl": "https://picsum.photos/seed/214/600/400",
+      "imageHint": "soda can"
+    },
+    {
+      "id": "mineral-water",
+      "description": "A bottle of mineral water.",
+      "imageUrl": "https://picsum.photos/seed/215/600/400",
+      "imageHint": "bottled water"
+    },
+    {
+      "id": "bar-soap",
+      "description": "A bar of soap.",
+      "imageUrl": "https://picsum.photos/seed/216/600/400",
+      "imageHint": "bar soap"
+    },
+    {
+      "id": "shampoo",
+      "description": "A bottle of shampoo.",
+      "imageUrl": "https://picsum.photos/seed/217/600/400",
+      "imageHint": "shampoo bottle"
+    },
+    {
+      "id": "cooking-pot",
+      "description": "A cooking pot.",
+      "imageUrl": "https://picsum.photos/seed/218/600/400",
+      "imageHint": "cooking pot"
+    },
+    {
+      "id": "baby-diapers",
+      "description": "A pack of baby diapers.",
+      "imageUrl": "https://picsum.photos/seed/219/600/400",
+      "imageHint": "baby diapers"
+    },
+    {
+      "id": "dog-food",
+      "description": "A bag of dry dog food.",
+      "imageUrl": "https://picsum.photos/seed/220/600/400",
+      "imageHint": "dog food"
+    },
+    {
+      "id": "category-fresh-food",
       "description": "A colorful display of fresh fruits and vegetables.",
-      "imageUrl": "https://picsum.photos/seed/2/400/300",
-      "imageHint": "fresh food"
+      "imageUrl": "https://picsum.photos/seed/31/400/300",
+      "imageHint": "fresh produce"
     },
     {
-      "id": "category-electronics",
-      "description": "Various electronic gadgets on a shelf.",
-      "imageUrl": "https://picsum.photos/seed/3/400/300",
-      "imageHint": "electronic gadgets"
-    },
-    {
-      "id": "category-apparel",
-      "description": "A rack of clothing in a store.",
-      "imageUrl": "https://picsum.photos/seed/4/400/300",
-      "imageHint": "clothing rack"
-    },
-    {
-      "id": "category-office",
-      "description": "A collection of office supplies on a desk.",
-      "imageUrl": "https://picsum.photos/seed/5/400/300",
-      "imageHint": "office supplies"
-    },
-    {
-      "id": "category-home-kitchen",
-      "description": "Kitchen utensils and appliances.",
-      "imageUrl": "https://picsum.photos/seed/6/400/300",
-      "imageHint": "kitchen items"
-    },
-    {
-      "id": "category-packaged-food",
+      "id": "category-packaged-food-groceries",
       "description": "Various packaged food items on a shelf.",
-      "imageUrl": "https://picsum.photos/seed/7/400/300",
-      "imageHint": "packaged food"
+      "imageUrl": "https://picsum.photos/seed/32/400/300",
+      "imageHint": "grocery aisle"
     },
     {
       "id": "category-beverages",
       "description": "A variety of bottled and canned beverages.",
-      "imageUrl": "https://picsum.photos/seed/8/400/300",
-      "imageHint": "assorted beverages"
+      "imageUrl": "https://picsum.photos/seed/33/400/300",
+      "imageHint": "drink bottles"
     },
     {
-      "id": "category-personal-care",
+      "id": "category-personal-care-beauty",
       "description": "A collection of personal care and beauty products.",
-      "imageUrl": "https://picsum.photos/seed/9/400/300",
-      "imageHint": "beauty products"
+      "imageUrl": "https://picsum.photos/seed/34/400/300",
+      "imageHint": "cosmetic products"
+    },
+    {
+      "id": "category-home-kitchen",
+      "description": "Kitchen utensils and appliances.",
+      "imageUrl": "https://picsum.photos/seed/35/400/300",
+      "imageHint": "kitchen supplies"
+    },
+    {
+      "id": "category-electronics-gadgets",
+      "description": "Various electronic gadgets on a shelf.",
+      "imageUrl": "https://picsum.photos/seed/36/400/300",
+      "imageHint": "electronic devices"
+    },
+    {
+      "id": "category-clothing-fashion",
+      "description": "A rack of clothing in a store.",
+      "imageUrl": "https://picsum.photos/seed/37/400/300",
+      "imageHint": "fashion apparel"
     },
     {
       "id": "category-baby-products",
       "description": "A collection of baby products.",
-      "imageUrl": "https://picsum.photos/seed/11/400/300",
-      "imageHint": "baby items"
+      "imageUrl": "https://picsum.photos/seed/38/400/300",
+      "imageHint": "baby toys"
     },
     {
       "id": "category-pet-supplies",
       "description": "A collection of pet supplies.",
-      "imageUrl": "https://picsum.photos/seed/12/400/300",
-      "imageHint": "pet food"
+      "imageUrl": "https://picsum.photos/seed/39/400/300",
+      "imageHint": "dog treats"
+    },
+    {
+      "id": "category-office-school-supplies",
+      "description": "A collection of office supplies on a desk.",
+      "imageUrl": "https://picsum.photos/seed/40/400/300",
+      "imageHint": "school stationery"
     }
   ]
 }
