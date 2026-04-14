@@ -14,6 +14,7 @@ export type Product = {
   careGuidelines?: string;
   warrantyInformation?: string;
   safetyWarnings?: string;
+  assemblyInstructions?: string;
 };
 
 export type Category = {
