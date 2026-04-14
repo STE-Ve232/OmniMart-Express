@@ -1,12 +1,11 @@
 "use client";
 
 import Link from 'next/link';
-import { Search, User as UserIcon, LogOut, LayoutGrid } from 'lucide-react';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { User as UserIcon, LogOut, LayoutGrid } from 'lucide-react';
+import { Suspense } from 'react';
 import { useAuth } from '@/hooks/use-auth';
 import { Logo } from '@/components/Logo';
 import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -17,22 +16,10 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { CartSheet } from '@/components/CartSheet';
 import { categories } from '@/lib/data';
+import { SearchForm } from './SearchForm';
 
 export function Header() {
   const { user, isAuthenticated, logout } = useAuth();
-  const router = useRouter();
-  const searchParams = useSearchParams();
-
-  const handleSearch = (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-    const formData = new FormData(e.currentTarget);
-    const query = formData.get('search') as string;
-    if (query) {
-      router.push(`/products?search=${encodeURIComponent(query)}`);
-    } else {
-      router.push('/products');
-    }
-  };
 
   return (
     <header className="sticky top-0 z-40 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
@@ -59,18 +46,9 @@ export function Header() {
           </DropdownMenu>
         </nav>
         <div className="flex flex-1 items-center justify-end gap-4">
-          <form onSubmit={handleSearch} className="hidden sm:flex flex-1 max-w-xs ml-auto">
-            <div className="relative w-full">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-              <Input
-                type="search"
-                name="search"
-                placeholder="Search products..."
-                className="pl-9"
-                defaultValue={searchParams.get('search') || ''}
-              />
-            </div>
-          </form>
+          <Suspense fallback={null}>
+            <SearchForm />
+          </Suspense>
           <CartSheet />
           {isAuthenticated ? (
             <DropdownMenu>
