@@ -17,10 +17,16 @@ function ProfileSkeleton() {
   );
 }
 
-export default function ProfilePage() {
+export default function ProfilePage({
+  searchParams,
+}: {
+  searchParams: { [key: string]: string | string[] | undefined };
+}) {
+  const tab = typeof searchParams.tab === 'string' ? searchParams.tab : 'profile';
+  
   return (
     <Suspense fallback={<ProfileSkeleton />}>
-      <ProfilePageClient />
+      <ProfilePageClient defaultTab={tab} />
     </Suspense>
   );
 }

@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useAuth } from '@/hooks/use-auth';
@@ -110,11 +110,9 @@ function Wishlist() {
 }
 
 
-export default function ProfilePageClient() {
+export default function ProfilePageClient({ defaultTab }: { defaultTab: string }) {
   const { isAuthenticated, user } = useAuth();
   const router = useRouter();
-  const searchParams = useSearchParams();
-  const defaultTab = searchParams.get('tab') || 'profile';
 
   useEffect(() => {
     if (!isAuthenticated) {
