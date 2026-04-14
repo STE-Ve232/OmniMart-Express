@@ -1,3 +1,118 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "fresh-mangoes",
+      "description": "A close up of three ripe mangoes.",
+      "imageUrl": "https://picsum.photos/seed/101/600/400",
+      "imageHint": "fresh mangoes"
+    },
+    {
+      "id": "organic-spinach",
+      "description": "A bundle of fresh organic spinach.",
+      "imageUrl": "https://picsum.photos/seed/102/600/400",
+      "imageHint": "fresh spinach"
+    },
+    {
+      "id": "avocados",
+      "description": "Two whole avocados and one sliced in half.",
+      "imageUrl": "https://picsum.photos/seed/103/600/400",
+      "imageHint": "fresh avocados"
+    },
+    {
+      "id": "wireless-earphones",
+      "description": "A pair of sleek white wireless earphones in their charging case.",
+      "imageUrl": "https://picsum.photos/seed/104/600/400",
+      "imageHint": "wireless earphones"
+    },
+    {
+      "id": "smartphone",
+      "description": "A modern smartphone with a vibrant screen display.",
+      "imageUrl": "https://picsum.photos/seed/105/600/400",
+      "imageHint": "modern smartphone"
+    },
+    {
+      "id": "laptop",
+      "description": "A thin and light laptop open on a desk.",
+      "imageUrl": "https://picsum.photos/seed/106/600/400",
+      "imageHint": "silver laptop"
+    },
+    {
+      "id": "t-shirt",
+      "description": "A plain, folded cotton t-shirt.",
+      "imageUrl": "https://picsum.photos/seed/107/600/400",
+      "imageHint": "cotton t-shirt"
+    },
+    {
+      "id": "jeans",
+      "description": "A pair of classic blue denim jeans.",
+      "imageUrl": "https://picsum.photos/seed/108/600/400",
+      "imageHint": "blue jeans"
+    },
+    {
+      "id": "running-shoes",
+      "description": "A pair of colorful and modern running shoes.",
+      "imageUrl": "https://picsum.photos/seed/109/600/400",
+      "imageHint": "running shoes"
+    },
+    {
+      "id": "office-chair",
+      "description": "An ergonomic black office chair.",
+      "imageUrl": "https://picsum.photos/seed/110/600/400",
+      "imageHint": "office chair"
+    },
+    {
+      "id": "printer-paper",
+      "description": "A ream of A4 printer paper.",
+      "imageUrl": "https://picsum.photos/seed/111/600/400",
+      "imageHint": "printer paper"
+    },
+    {
+      "id": "dish-soap",
+      "description": "A bottle of lemon-scented dish soap.",
+      "imageUrl": "https://picsum.photos/seed/112/600/400",
+      "imageHint": "dish soap"
+    },
+    {
+      "id": "all-purpose-cleaner",
+      "description": "A spray bottle of all-purpose cleaner.",
+      "imageUrl": "https://picsum.photos/seed/113/600/400",
+      "imageHint": "cleaning spray"
+    },
+    {
+      "id": "hero-background",
+      "description": "A bright and modern supermarket aisle.",
+      "imageUrl": "https://picsum.photos/seed/1/1200/800",
+      "imageHint": "supermarket aisle"
+    },
+    {
+      "id": "category-produce",
+      "description": "A colorful display of fresh fruits and vegetables.",
+      "imageUrl": "https://picsum.photos/seed/2/400/300",
+      "imageHint": "fresh produce"
+    },
+    {
+      "id": "category-electronics",
+      "description": "Various electronic gadgets on a shelf.",
+      "imageUrl": "https://picsum.photos/seed/3/400/300",
+      "imageHint": "electronic gadgets"
+    },
+    {
+      "id": "category-apparel",
+      "description": "A rack of clothing in a store.",
+      "imageUrl": "https://picsum.photos/seed/4/400/300",
+      "imageHint": "clothing rack"
+    },
+    {
+      "id": "category-office",
+      "description": "A collection of office supplies on a desk.",
+      "imageUrl": "https://picsum.photos/seed/5/400/300",
+      "imageHint": "office supplies"
+    },
+    {
+      "id": "category-household",
+      "description": "Cleaning supplies and other household items on a shelf.",
+      "imageUrl": "https://picsum.photos/seed/6/400/300",
+      "imageHint": "household items"
+    }
+  ]
 }
